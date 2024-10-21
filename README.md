@@ -2,6 +2,4 @@
 Testing testing
 #
 
-This is a test! Testing!
-
-Now I'm testing again!
+This is a test! Testing! Testing some more
